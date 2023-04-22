@@ -2,7 +2,7 @@
 // Created by wwwdo on 22.04.2023.
 //
 
-#include "separator.h"
+#include "../headers/separator.h"
 #include <iostream>
 
 using namespace std;

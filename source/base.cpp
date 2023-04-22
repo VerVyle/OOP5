@@ -2,8 +2,8 @@
 // Created by wwwdo on 22.04.2023.
 //
 
-#include "base.h"
-#include "separator.h"
+#include "../headers/base.h"
+#include "../headers/separator.h"
 #include <iostream>
 
 using namespace std;

@@ -2,8 +2,8 @@
 // Created by wwwdo on 22.04.2023.
 //
 
-#include "points.h"
-#include "separator.h"
+#include "../headers/points.h"
+#include "../headers/separator.h"
 #include <iostream>
 #include <memory>
 

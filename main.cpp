@@ -1,7 +1,7 @@
-#include "animals.h"
-#include "birds.h"
-#include "points.h"
-#include "base.h"
+#include "headers/animals.h"
+#include "headers/birds.h"
+#include "headers/points.h"
+#include "headers/base.h"
 
 int main() {
     invokePoints();

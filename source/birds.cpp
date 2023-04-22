@@ -2,11 +2,11 @@
 // Created by wwwdo on 22.04.2023.
 //
 
-#include "birds.h"
+#include "../headers/birds.h"
 #include <iostream>
 #include <string>
 #include <ctime>
-#include "separator.h"
+#include "../headers/separator.h"
 
 using namespace std;
 

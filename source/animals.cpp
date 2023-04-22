@@ -3,8 +3,8 @@
 //
 
 #include <iostream>
-#include "animals.h"
-#include "separator.h"
+#include "../headers/animals.h"
+#include "../headers/separator.h"
 
 using namespace std;
 

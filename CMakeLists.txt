@@ -3,4 +3,4 @@ project(CLionProjects)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CLionProjects main.cpp animals.h animals.cpp birds.h birds.cpp separator.h separator.cpp base.h base.cpp points.cpp points.h)
+add_executable(CLionProjects main.cpp headers/animals.h source/animals.cpp headers/birds.h source/birds.cpp headers/separator.h source/separator.cpp headers/base.h source/base.cpp source/points.cpp headers/points.h)
